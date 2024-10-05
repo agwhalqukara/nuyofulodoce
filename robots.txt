@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nuyofulodoce.pages.dev/sitemap.xml
